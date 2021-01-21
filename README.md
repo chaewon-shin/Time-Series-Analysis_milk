@@ -1,1 +1,1 @@
-# milk
+The purpose of this project report is to analyze and construct a time series model and forecast future outcomes based on the data set, milk. This data set measures monthly milk production in pounds from January 1962 to December 1975 with 156 observations. (Makridakis, Wheelwright and Hyndman (1998) Forecasting: methods and applications, John Wiley & Sons: New York. Chapter 2.)
