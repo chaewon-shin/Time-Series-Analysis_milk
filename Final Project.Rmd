@@ -1,5 +1,5 @@
 ---
-title: 'PSTAT 174 Final Project: Milk Production'
+title: 'PSTAT 174 Time Series Analysis: Milk Production'
 author: "Chaewon Shin"
 date: Spring 2020
 output:
